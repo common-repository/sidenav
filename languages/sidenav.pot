@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SideNav\n"
+"POT-Creation-Date: 2017-07-24 18:42-0700\n"
+"PO-Revision-Date: 2017-07-24 18:42-0700\n"
+"Last-Translator: Larry Judd <tradesouthwest@gmail.com>\n"
+"Language-Team: Tradesouthwest <tradesouthwest@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/sidenav-adminpage.php:16
+msgid "Side Off-Canvas Menu"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:43
+msgid "Sidenav Options"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:44
+msgid "Sidenav Settings"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:69
+msgid "Controls for SidNav Menu"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:77
+msgid "Turn Menu On or Off"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:85
+msgid "Left or Right Side of Theme"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:93
+msgid "Enter Font Name"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:101
+msgid "Select Font Size"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:109
+msgid "Set Visibility"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:142
+msgid "Left Side"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:144
+msgid "Right Side"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:182
+msgid "Set to zero!"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:183
+msgid "Some themes will require you to adjust this.*"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:193
+msgid "Change size of font or turn off menu."
+msgstr ""
+
+#: includes/sidenav-adminpage.php:246
+msgid "Menu Builder Information"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:253
+msgid "Style Tips"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:254
+msgid "Fine Tunning"
+msgstr ""
+
+#: includes/sidenav-adminpage.php:255
+msgid ""
+"The selector for anchor links is <code>#sideNavWrap a</code><br>Plugin "
+"should work on most any theme and has been tested on most modern themes. "
+"Please let us know if you find a particular problem with any compatibility "
+"and we will try to accommodate."
+msgstr ""
+
+#: includes/sidenav-adminpage.php:257
+msgid ""
+"Some themes will have a visibility override set at a high value in order to "
+"assure that a section on the page is visible on top of another section of "
+"the page. This element is called a z-index. You may be required to set a "
+"very high z-index by using the Set Visibility setting above in order to get "
+"the SideNav to show. Try a few settings above 9000 first then push it higher "
+"if the menu is not visible yet. 99999 should be exceedingly high and would "
+"not be reccommended unless it is the only thing that works. Otherwise this "
+"tells you that the theme may not be compatible with SideNav."
+msgstr ""
+
+#: includes/sidenav-adminpage.php:258
+msgid "SET TO ZERO IF NOT USING"
+msgstr ""
